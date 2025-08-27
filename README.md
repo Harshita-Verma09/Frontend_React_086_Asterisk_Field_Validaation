@@ -1,4 +1,4 @@
-# Asterisk Field Validation - React + TypeScript + Vite
+# Asterisk Field Validation 
 
 This project demonstrates a simple email and password form in React, where required fields are marked with an asterisk (`*`). The asterisk color changes based on validation state:
 - **Red**: Field has an error
