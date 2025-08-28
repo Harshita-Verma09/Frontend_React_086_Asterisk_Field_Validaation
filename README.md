@@ -7,6 +7,7 @@ This project demonstrates a simple email and password form in React, where requi
 
 ## Features
 
+
 - Email and password validation
 - Dynamic asterisk color for required fields
 - Inline error messages
